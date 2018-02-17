@@ -1,6 +1,6 @@
 /*
  * File Name       :dynamic_sched.cpp
- * Description     :Implimentation of master-worker scheduler
+ * Description     :Implementation of master-worker scheduler
  * Author          :Karthik Rao
  * Version         :1.1
  * To compile :
