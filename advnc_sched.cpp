@@ -1,6 +1,6 @@
 /*
  * File Name       :advnc_sched.cpp
- * Description     :Implimentation of a advanced version of master-worker scheduler
+ * Description     :Implementation of a advanced version of master-worker scheduler
  *                  to perform numerical integration
  * Author          :Karthik Rao
  * Version         :1.1
